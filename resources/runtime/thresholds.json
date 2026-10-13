@@ -1,0 +1,110 @@
+{
+  "model": {
+    "training_seed": 42,
+    "trial": "trial_07",
+    "epoch": 36
+  },
+  "tasks": {
+    "icd_icd": {
+      "threshold": -188.88305093645354,
+      "validation_objective": "positive_f1",
+      "source": "hcoe-reproduction/runs/protocol_allquery_twohop_v1/results.json"
+    },
+    "atc_atc": {
+      "threshold": -205.06854182428708,
+      "validation_objective": "positive_f1",
+      "source": "hcoe-reproduction/runs/protocol_allquery_twohop_v1/results.json"
+    },
+    "icd_atc": {
+      "threshold": -1.5436176094689245,
+      "validation_objective": "macro_f1",
+      "source": "hcoe-cross-ontology-querycenter-v3/runs/atc_icd9_query_center_v3/results.json"
+    },
+    "phecode": {
+      "threshold": -300.602465566309,
+      "validation_objective": "positive_f1",
+      "source": "hcoe-phecode-hardneg-v2/runs/phecode_hardneg_v2/results.json"
+    }
+  },
+  "files": [
+    {
+      "file": "raw/icd_9_10_w_ccs.csv",
+      "source": "user-provided/icd_9_10_w_ccs.csv",
+      "sha256": "9b969c469fa8d434efe49dee6d9025f6cb83b7aa6b02cb4489620246214a3a73",
+      "bytes": 16660387
+    },
+    {
+      "file": "raw/icd9_procedure_hierarchy_5level_complete.csv",
+      "source": "user-provided/icd9_procedure_hierarchy_5level_complete.csv",
+      "sha256": "07e2763b0c921de5001dd07a930e44b5ff09d42e39090bfb7dd7489779f7b498",
+      "bytes": 753486
+    },
+    {
+      "file": "raw/atc_hierarchy.csv",
+      "source": "user-provided/atc_hierarchy.csv",
+      "sha256": "629544732557d99cec389128d8b885ee6ffe95230c6920c5cb65b2e0f3ccc97b",
+      "bytes": 961957
+    },
+    {
+      "file": "raw/atc2icd.csv",
+      "source": "user-provided/atc2icd.csv",
+      "sha256": "befd5ab4c8ccc5eca8a5d8d3dffddabcda8d876b3d3cf45c0e00fc71aaf4d771",
+      "bytes": 224375
+    },
+    {
+      "file": "raw/phecode_icd9_relations.csv",
+      "source": "hcoe-phecode-transfer-v1/data/phecode_icd9_relations.csv",
+      "sha256": "3f70eec86e3165cd08b5d52072bf20d021a4fb08abbeda3c3209951de60bcd5c",
+      "bytes": 2520331
+    },
+    {
+      "file": "runtime/best.pt",
+      "source": "hcoe-reproduction/runs/trial_07/best.pt",
+      "sha256": "ffb99d47c0ae1626b7455be5a8d1bb84ac799205476d6c10cbfb2e1b289f12f0",
+      "bytes": 3941141
+    },
+    {
+      "file": "runtime/features.npy",
+      "source": "hcoe-reproduction/artifacts/features.npy",
+      "sha256": "c3b87881d8294c989fd62bac5af53b9f874c6f71ef28822f4e3981e7c1e34330",
+      "bytes": 83364992
+    },
+    {
+      "file": "runtime/nodes.json",
+      "source": "hcoe-reproduction/data/processed/nodes.json",
+      "sha256": "33cf9833fe4b8e2e99cb453e5013c960c7d0d3c1046fad99215549e981b93dc9",
+      "bytes": 13421016
+    },
+    {
+      "file": "runtime/icd_test_pairs.npy",
+      "source": "hcoe-reproduction/runs/protocol_allquery_twohop_v1/icd_test_pairs.npy",
+      "sha256": "829fedeabd79552bb7d0dde3d9ec562c155dc125998ed91897ff0972ece2ea70",
+      "bytes": 3524968
+    },
+    {
+      "file": "runtime/atc_test_pairs.npy",
+      "source": "hcoe-reproduction/runs/protocol_allquery_twohop_v1/atc_test_pairs.npy",
+      "sha256": "818d30bda8412b1c41c5f250cb9cdc0c40c7523b51c3e7f0e30ea9d32760a07e",
+      "bytes": 1157988
+    },
+    {
+      "file": "runtime/icd_atc_test_pairs.csv",
+      "source": "hcoe-cross-ontology-querycenter-v3/runs/atc_icd9_query_center_v3/test_pairs.csv",
+      "sha256": "5b6ecb9389265ad16db1e88193b623d776c764beb762a7ef7d58a8d0f3dcd190",
+      "bytes": 224006
+    },
+    {
+      "file": "runtime/icd_atc_candidates.csv",
+      "source": "hcoe-cross-ontology-querycenter-v3/runs/atc_icd9_query_center_v3/candidates.csv",
+      "sha256": "6174f3537b568c454d45fd0811c711d37cd563d47c6de2b10b4521c5d1e56a5e",
+      "bytes": 21488
+    },
+    {
+      "file": "runtime/phecode_test_pairs.npy",
+      "source": "hcoe-phecode-hardneg-v2/runs/phecode_hardneg_v2/test_hard5_pairs.npy",
+      "sha256": "790c2ca7d387289242e7bd4905ce19be36def53920343f8abf2fcb9e8d50c398",
+      "bytes": 64667808
+    }
+  ],
+  "note": "Source paths are provenance only. Runtime resolves all resources inside this project; hashes are not rechecked on each run."
+}

@@ -1,0 +1,501 @@
+icd9_code,candidate_id,description
+0010,14166,Cholera due to Vibrio cholerae
+0011,14167,Cholera due to Vibrio cholerae el tor
+0019,14168,Cholera NOS
+0020,14171,Typhoid fever
+0029,14175,Paratyphoid fever NOS
+0030,14178,Salmonella gastroenteritis
+00320,14179,"Localized salmonella infection, unspecified"
+0040,14185,Shigella dysenteriae
+0041,14186,Shigella flexneri
+0042,14187,Shigella boydii
+0049,14190,Shigellosis NOS
+0061,14205,Chronic intestinal amebiasis without mention of abscess
+0062,14206,Amebic nondysenteric colitis
+0063,14207,Amebic liver abscess
+0068,14211,Amebic infection of other sites
+0069,14212,Amebiasis NOS
+0071,14216,Giardiasis
+0074,14219,Cryptosporidiosis
+00801,14227,Intestinal infection due to enteropathogenic E. coli
+00809,14231,Other intestinal E. coli infections
+00849,14242,Intestinal infection due to other specified bacteria
+0085,14243,"Bacterial enteritis, unspecified"
+01190,98,"Unspecified pulmonary tuberculosis, unspecified examination"
+01200,107,"Tuberculous pleurisy, unspecified examination"
+01300,144,Tuberculous meningitis unspecified examination
+01730,369,"Tuberculosis of eye, unspecified examination"
+01800,420,"Acute miliary tuberculosis, unspecified examination"
+01890,434,"Unspecified miliary tuberculosis, unspecified examination"
+0209,493,Plague NOS
+0219,496,Tularemia NOS
+0229,499,Anthrax NOS
+0239,507,Brucellosis NOS
+0269,515,Rat-bite fever NOS
+0300,525,Lepromatous leprosy
+0301,526,Tuberculoid leprosy
+0309,530,Leprosy NOS
+0321,13820,Nasopharyngeal diphtheria
+0329,537,Diphtheria NOS
+0330,540,Whooping cough due to bordetella pertussis (b. pertussis)
+0331,541,Whooping cough due to bordetella parapertussis (b. parapertussis)
+0339,543,Whooping cough NOS
+0360,11146,Meningococcal meningitis
+0362,458,Meningococcemia
+0369,550,"Meningococcal infection, unspecified"
+0380,461,Streptococcal septicemia
+0382,467,Pneumococcal septicemia
+0389,476,Septicemia NOS
+040,560,Other bacterial diseases
+042,846,Human immunodeficiency virus [HIV] disease
+0529,933,Varicella uncomplicated
+053,11158,Herpes zoster
+054,946,Herpes simplex
+05473,956,Herpes simplex otitis externa
+0741,1043,Epidemic pleurodynia
+075,1047,Infectious mononucleosis
+0769,11901,Trachoma NOS
+07811,1053,Condyloma acuminatum
+0785,1059,Cytomegaloviral disease
+07881,1062,Epidemic vertigo
+0819,1098,Typhus NOS
+0839,1114,Rickettsiosis NOS
+0840,1117,Falciparum malaria [malignant tertian]
+0841,1118,Vivax malaria [benign tertian]
+0850,1129,Visceral leishmaniasis
+0855,1134,"Mucocutaneous leishmaniasis, (American)"
+0859,1135,Leishmaniasis NOS
+0865,1143,African trypanosoma NOS
+08881,1154,Lyme disease
+0900,630,"Early congenital syphilis, symptomatic"
+0902,632,"Early congenital syphilis, unspecified"
+0970,708,Late syphilis NOS
+098,712,Gonococcal infections
+0999,771,Venereal disease NOS
+1009,1162,Leptospirosis unspecified
+101,1164,Vincents angina
+1024,1171,"Gummata and ulcers, yaws"
+1048,1187,Other specified spirochetal infections
+1049,1188,"Spirochetal infection, unspecified"
+1101,784,Dermatophytosis of nail
+1104,787,Dermatophytosis of foot
+1109,791,Dermatophytosis of unspecified site
+1110,794,Pityriasis versicolor
+1120,802,Candidiasis of mouth
+1129,811,Candidiasis of unspecified site
+1149,815,Coccidioidomycosis NOS
+1160,826,Blastomycosis
+1161,827,Paracoccidioidomycosis
+1173,834,Aspergillosis
+1174,835,Mycotic mycetomas
+1177,838,Zygomycosis
+1201,1192,Schistosoma mansoni
+1203,1194,Cutaneous schistosomiasis
+1209,1196,Schistosomiasis NOS
+1230,1222,"Taenia solium infection, intestinal form"
+1231,1223,Cysticercosis
+1232,1224,Taenia saginata infection
+1252,1237,Loiasis
+1259,1243,Filariasis NOS
+1270,1254,Ascariasis
+1272,1256,Strongyloidiasis
+1279,1263,"Intestinal helminthiasis, unspecified"
+1289,1269,Helminthiasis NOS
+1309,1276,Toxoplasmosis NOS
+1319,1285,Trichomoniasis NOS
+1320,1288,Pediculus capitis [head louse]
+1321,1289,Pediculus corporis [body louse]
+1329,1292,Pediculosis NOS
+135,1306,Sarcoidosis
+140,8662,Malignant neoplasm of lip
+1400,8663,"Malignant neoplasm of upper lip, vermilion border"
+1401,8664,"Malignant neoplasm of lower lip, vermilion border"
+1473,8729,Malignant neoplasm of anterior wall of nasopharynx
+1509,9314,"Malignant neoplasm of esophagus, unspecified"
+1519,9330,"Malignant neoplasm of stomach, unspecified"
+1539,8256,"Malignant neoplasm of colon, unspecified"
+1543,8278,"Malignant neoplasm of anus, unspecified"
+1573,9353,Malignant neoplasm of pancreatic duct
+1590,8259,"Malignant neoplasm of intestinal tract, part unspecified"
+1609,8755,"Malignant neoplasm of accessory sinus, unspecified"
+1622,9398,Malignant neoplasm of main bronchus
+1623,9399,"Malignant neoplasm of upper lobe, bronchus or lung"
+1624,9400,"Malignant neoplasm of middle lobe, bronchus or lung"
+1629,9403,"Malignant neoplasm of bronchus and lung, unspecified"
+1709,8811,"Malignant neoplasm of bone and articular cartilage, site unspecified"
+1719,8822,"Malignant neoplasm of connective and other soft tissue, site unspecified"
+173,9428,Other malignant neoplasm of skin
+1734,9449,Other malignant neoplasm of scalp and skin of neck
+1760,8866,"Kaposis sarcoma, skin"
+1765,8871,"Kaposis sarcoma, lymph nodes"
+1809,9541,"Malignant neoplasm of cervix uteri, unspecified"
+182,9527,Malignant neoplasm of body of uterus
+1833,9565,Malignant neoplasm of broad ligament of uterus
+184,9571,Malignant neoplasm of other and unspecified female genital organs
+1889,9637,"Malignant neoplasm of bladder, part unspecified"
+1903,8879,Malignant neoplasm of conjunctiva
+1910,8826,"Malignant neoplasm of cerebrum, except lobes and ventricles"
+1911,8827,Malignant neoplasm of frontal lobe
+1912,8828,Malignant neoplasm of temporal lobe
+1913,8829,Malignant neoplasm of parietal lobe
+1914,8830,Malignant neoplasm of occipital lobe
+1917,8833,Malignant neoplasm of brain stem
+1919,8835,"Malignant neoplasm of brain, unspecified"
+1922,8840,Malignant neoplasm of spinal cord
+1940,8888,Malignant neoplasm of adrenal gland
+1962,8965,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes
+197,8972,Secondary malignant neoplasm of respiratory and digestive systems
+19889,8994,Secondary malignant neoplasm of other specified sites
+199,9007,Malignant neoplasm without specification of site
+2030,8651,Multiple myeloma
+2031,8528,Plasma cell leukemia
+2040,8534,"Lymphoid leukemia, acute"
+2041,8538,"Lymphoid leukemia, chronic"
+2049,8550,Unspecified lymphoid leukemia
+2050,8556,"Myeloid leukemia, acute"
+2052,8564,"Myeloid leukemia, subacute"
+2059,8576,Unspecified myeloid leukemia
+2120,9171,"Benign neoplasm of nasal cavities, middle ear, and accessory sinuses"
+22381,9251,Benign neoplasm of urethra
+2270,9279,Benign neoplasm of adrenal gland
+2302,9334,Carcinoma in situ of stomach
+2303,8269,Carcinoma in situ of colon
+2312,9407,Carcinoma in situ of bronchus and lung
+2333,9580,Carcinoma in situ of other and unspecified female genital organs
+2334,9595,Carcinoma in situ of prostate
+2335,9618,Carcinoma in situ of penis
+2339,9660,Carcinoma in situ of other and unspecified urinary organs
+23875,9075,"Myelodysplastic syndrome, unspecified"
+242,9677,Thyrotoxicosis with or without goiter
+2440,9696,Postsurgical hypothyroidism
+2450,9704,Acute thyroiditis
+2451,9705,Subacute thyroiditis
+2452,9706,Chronic lymphocytic thyroiditis
+2459,9710,Thyroiditis NOS
+2469,9718,Unspecified disorder of thyroid
+250,9883,Diabetes mellitus
+251,9964,Other disorders of pancreatic internal secretion
+2512,9967,Hypoglycemia NOS
+2513,9968,Postsurgical hypoinsulinemia
+2521,9980,Hypoparathyroidism
+2530,9985,Acromegaly and gigantism
+2532,9987,Panhypopituitarism
+2533,9988,Pituitary dwarfism
+2535,9990,Diabetes insipidus
+2550,10003,Cushings syndrome
+25510,10005,Primary aldosteronism
+2552,10010,Adrenogenital disorders
+2553,10011,Other corticoadrenal overactivity
+2556,10016,Medulloadrenal hyperfunction
+2569,10027,Ovarian dysfunction NOS
+2599,10054,Unspecified endocrine disorder
+2644,10078,Vitamin A deficiency with keratomalacia
+2648,10082,Other manifestations of vitamin A deficiency
+2649,10083,Vitamin A deficiency NOS
+2650,10086,Beriberi
+2660,10091,Ariboflavinosis
+2661,10092,Vitamin B6 deficiency
+2689,10102,Vitamin d deficiency NOS
+2690,10105,Deficiency of vitamin K
+2698,10109,Other nutritional deficiency
+2699,10110,Unspecified nutritional deficiency
+2700,9747,Disturbances of amino-acid transport
+2706,9753,Disorders of urea cycle metabolism
+2720,10119,Pure hypercholesterolemia
+2721,10120,Pure hyperglyceridemia
+2722,10121,Mixed hyperlipidemia
+2723,10122,Hyperchylomicronemia
+2724,10123,Other and unspecified hyperlipidemia
+2725,9767,Lipoprotein deficiencies
+27401,10130,Acute gouty arthropathy (ADDED)
+2749,10139,Gout NOS
+2751,9788,Disorders of copper metabolism
+27540,9792,Unspecified disorder of calcium metabolism
+2759,9798,Unspecified disorder of mineral metabolism
+2762,10198,Acidosis
+2763,10199,Alkalosis
+2767,10207,Hyperpotassemia
+2768,10208,Hypopotassemia
+27702,10218,Cystic fibrosis with pulmonary manifestations
+27709,10220,Cystic fibrosis with other manifestations
+27730,9803,Amyloidosis NOS
+2780,9821,Overweight and obesity
+2800,10226,Iron deficiency anemia secondary to blood loss (chronic)
+2809,10229,"Iron deficiency anemia, unspecified"
+2810,10232,Pernicious anemia
+2812,10234,Folate-deficiency anemia
+2870,10320,Allergic purpura
+2874,10329,Secondary thrombocytopenia
+2875,10331,Thrombocytopenia NOS
+2883,10353,Eosinophilia
+28951,10377,Chronic congestive splenomegaly
+29382,10415,Psychotic disorder with hallucinations in conditions classified elsewhere
+29530,10436,"Paranoid type schizophrenia, unspecified state"
+29590,10472,"Unspecified schizophrenia, unspecified state"
+29620,11068,"Major depressive disorder, single episode, unspecified degree"
+29621,11069,"Major depressive disorder, single episode, mild degree"
+29622,11070,"Major depressive disorder, single episode, moderate degree"
+29623,11071,"Major depressive disorder, single episode, severe degree, without mention of psychotic behavior"
+29630,11075,"Major depressive disorder, recurrent episode, unspecified degree"
+29680,11104,Bipolar disorder NOS
+2971,10481,Delusional disorder
+2979,10485,Paranoid state NOS
+2984,10492,Psychogenic paranoid psychosis
+30000,10861,Anxiety state unspecified
+30002,10863,Generalized anxiety disorder
+30011,10766,Conversion disorder
+30012,10767,Dissociative amnesia
+30020,10866,Phobia unspecified
+3003,10871,Obsessive-compulsive disorders
+30089,10873,Other somatoform disorders
+30275,10792,Premature ejaculation
+303,10511,Alcohol dependence syndrome
+30652,10811,Psychogenic dysmenorrhea
+30723,11028,Tourettes disorder
+30750,10830,Eating disorder NOS
+30751,10831,Bulimia nervosa
+30781,10837,Tension headache
+3089,10882,Unspecified acute reaction to stress
+30981,10884,Posttraumatic stress disorder
+31401,10921,Attention deficit disorder of childhood with hyperactivity
+3149,10925,Unspecified hyperkinetic syndrome of childhood
+3209,11185,Bacterial meningitis NOS
+3321,12729,Secondary Parkinsonism
+3332,11353,Myoclonus
+3361,11399,Vascular myelopathies
+3362,11400,Subacute combined degeneration of spinal cord in diseases classified elsewhere
+3370,11406,Idiopathic peripheral autonomic neuropathy
+3379,11412,Autonomic nervous system disorder NEC
+33910,11517,Tension headache NOS
+345,11473,Epilepsy and recurrent seizures
+3457,11491,Epilepsia partialis continua
+3469,11572,"Migraine, unspecified"
+34701,12759,"Narcolepsy, with cataplexy"
+3482,12765,Benign intracranial hypertension
+3485,12771,Cerebral edema
+349,5487,Other and unspecified disorders of the nervous system
+3499,12782,Unspecified disorders of nervous system
+3501,12785,Trigeminal neuralgia
+3539,12815,Unspecified nerve root and plexus disorder
+3577,12857,Polyneuropathy due to other toxic agents
+3580,12865,Myasthenia gravis
+3599,12894,Myopathy unspecified
+36000,11924,"Purulent endophthalmitis, unspecified"
+36019,11933,Other endophthalmitis
+3609,12093,Disorder of globe NOS
+36400,11955,Acute iridocyclitis NOS
+3643,11967,Iridocyclitis NOS
+36514,11740,Glaucoma of childhood
+3659,11771,Glaucoma NOS
+36620,11609,"Traumatic cataract, unspecified"
+37000,12152,Corneal ulcer NOS
+37040,11979,Keratoconjunctivitis NOS
+3709,11988,Keratitis NOS
+37189,12216,Other corneal disorders
+37230,12007,Conjunctivitis NOS
+37289,12244,Other disorders of conjunctiva
+37300,12013,Blepharitis NOS
+3739,12027,Inflammation eyelid NOS
+37900,12061,Scleritis NOS
+37990,12469,Eye disorder NOS
+3809,12633,Unspecified disorder of external ear
+38600,12572,Menieres disease NOS
+38612,12579,Vestibular neuronitis
+38619,12580,Other peripheral vertigo
+38650,12593,"Labyrinthine dysfunction, unspecified"
+4039,12971,"Hypertensive renal disease, unspecified"
+4049,12986,"Hypertensive heart and renal disease, unspecified"
+40599,12998,Other unspecified secondary hypertension
+41090,13042,"Acute myocardial infarction, unspecified site, episode of care unspecified"
+4111,13049,Intermediate coronary syndrome
+413,13056,Angina pectoris
+4131,13058,Prinzmetal angina
+4139,13059,Other and unspecified angina pectoris
+41401,13064,Coronary atherosclerosis of native coronary artery
+4149,13070,"Chronic ischemic heart disease, unspecified"
+4160,13089,Primary pulmonary hypertension
+42090,13283,Acute pericarditis NOS
+4210,13288,Acute and subacute bacterial endocarditis
+425,13308,Cardiomyopathy
+4267,13138,Anomalous atrioventricular excitation
+42681,13139,Lown-Ganong-Levine syndrome
+4272,13159,"Paroxysmal tachycardia, unspecified"
+4275,13176,Cardiac arrest
+42761,13163,Supraventricular premature beats
+42781,13165,Sinoatrial node dysfunction
+42789,13166,Other specified cardiac dysrhythmias
+4279,13167,Cardiac dysrhythmia NOS
+4289,13196,Heart failure unspecified
+429,13320,Ill-defined descriptions and complications of heart disease
+4299,13120,Heart disease NOS
+4359,13393,Unspecified transient cerebral ischemia
+4372,13000,Hypertensive encephalopathy
+4379,13384,Unspecified cerebrovascular disease
+4389,13425,Unspecified late effects of cerebrovascular disease
+440,13429,Atherosclerosis
+4439,13442,"Peripheral vascular disease, unspecified"
+444,13489,Arterial embolism and thrombosis
+4449,13498,Embolism and thrombosis of unspecified artery
+44620,13518,"Hypersensitivity angiitis, unspecified"
+4519,13589,Phlebitis and thrombophlebitis of unspecified site
+453,13593,Other venous embolism and thrombosis
+454,13628,Varicose veins of lower extremities
+4580,13544,Orthostatic hypotension
+4589,13547,Hypotension NOS
+4599,13552,Unspecified circulatory system disorder
+4610,13830,Acute maxillary sinusitis
+4619,13835,Acute sinusitis NOS
+462,13837,Acute pharyngitis
+463,13794,Acute tonsillitis
+4659,13856,Acute upper respiratory infections of unspecified site
+4660,13812,Acute bronchitis
+4710,14092,Polyp of nasal cavity
+4719,14095,Nasal polyp NOS
+4739,13864,Chronic sinusitis NOS
+4770,14107,Allergic rhinitis due to pollen
+4788,14137,"Upper respiratory tract hypersensitivity reaction, site unspecified"
+4789,14138,Other and unspecified diseases of upper respiratory tract
+48289,13748,Pneumonia due to other specified bacteria
+4830,13752,Pneumonia due to Mycoplasma pneumoniae
+487,13775,Influenza
+4870,13776,Influenza with pneumonia
+4910,13873,Simple chronic bronchitis
+4912,13875,Obstructive chronic bronchitis
+492,13882,Emphysema
+4959,13976,Unspecified allergic alveolitis and pneumonitis
+503,13984,Pneumoconiosis due to other inorganic dust
+519,5504,Other diseases of respiratory system
+52100,14450,Dental caries NOS
+52102,14452,Dental caries extending into dentine
+5277,14673,Disturbance of salivary secretion
+5300,14713,Achalasia and cardiospasm
+5302,14720,Ulcer of esophagus
+53081,14728,Esophageal reflux
+531,14274,Gastric ulcer
+532,14284,Duodenal ulcer
+533,14294,"Peptic ulcer, site unspecified"
+5350,14784,Acute gastritis
+5356,14799,Duodenitis
+53789,14826,Other specified disorders of stomach and duodenum
+5562,14909,Ulcerative (chronic) proctitis
+5568,14914,Other ulcerative colitis
+5569,14915,"Ulcerative colitis, unspecified"
+5601,14920,Paralytic ileus
+5602,14921,Volvulus
+56400,14337,Constipation NOS
+5641,14341,Irritable bowel syndrome
+56721,14967,Peritonitis (acute) generalized
+5679,14977,Peritonitis NOS
+56982,14357,Ulceration of intestine
+5739,15053,Unspecified disorder of liver
+574,14983,Cholelithiasis
+5799,14371,Unspecified intestinal malabsorption
+581,1340,Nephrotic syndrome
+5859,1389,"Chronic kidney disease, unspecified"
+5880,1465,Renal osteodystrophy
+59080,1417,Pyelonephritis NOS
+5950,1422,Acute cystitis
+5953,1425,Trigonitis
+5959,1430,Cystitis NOS
+59689,1514,Other specified disorders of bladder
+59780,1434,Urethritis NOS
+59789,1436,Other urethritis
+5990,1443,"Urinary tract infection, site not specified"
+59960,1534,Urinary obstruction NOS
+6010,1632,Acute prostatitis
+6011,1633,Chronic prostatitis
+6012,1634,Abscess of prostate
+6073,1679,Priapism
+60881,1696,Disorders of male genital organs in diseases classified elsewhere
+6101,1712,Diffuse cystic mastopathy
+6116,1726,Galactorrhea not associated with childbirth
+6142,1751,"Salpingitis and oophoritis not specified as acute, subacute, or chronic"
+6170,1783,Endometriosis of uterus
+6179,1791,"Endometriosis, site unspecified"
+62130,1884,"Endometrial hyperplasia, unspecified"
+625,1938,Pain and other symptoms associated with female genital organs
+6250,1939,Dyspareunia
+6251,1940,Vaginismus
+6273,1846,Postmenopausal atrophic vaginitis
+6289,1861,Female infertility NOS
+630,2035,Hydatidiform mole
+632,2041,Missed abortion
+6391,2006,Delayed or excessive hemorrhage following abortion or ectopic and molar pregnancies
+64003,2229,"Threatened abortion, antepartum"
+64660,2087,"Infections of genitourinary tract in pregnancy, unspecified as to episode of care"
+64663,2090,Infections of genitourinary tract antepartum
+666,2782,Postpartum hemorrhage
+66604,2785,Third-stage postpartum hemorrhage
+66614,2788,"Other immediate postpartum hemorrhage, postpartum"
+66620,2789,"Delayed and secondary postpartum hemorrhage, unspecified as to episode of care"
+66624,2791,"Delayed and secondary postpartum hemorrhage, postpartum"
+67130,2903,"Deep phlebothrombosis, antepartum, unspecified as to episode of care"
+67133,2905,"Deep phlebothrombosis, antepartum"
+67640,3035,"Failure of lactation, unspecified as to episode of care"
+67660,3045,"Galactorrhea associated with childbirth, unspecified as to episode of care"
+683,7577,Acute lymphadenitis
+684,3159,Impetigo
+68600,3167,Pyoderma NOS
+6869,3172,Unspecified local infection of skin and subcutaneous tissue
+69010,3177,"Seborheic dermatitis, unspecified"
+69011,3178,Seborrhea capitis
+69271,7647,Sunburn
+6940,3187,Dermatitis herpetiformis
+6944,3191,Pemphigus
+6945,3192,Pemphigoid
+69510,3201,"Erythema multiforme, unspecified"
+6953,3209,Rosacea
+6954,3210,Lupus erythematosus
+6980,3241,Pruritus ani
+6989,3247,Unspecified pruritic disorder
+7020,3296,Actinic keratosis
+7063,3335,Seborrhea
+7081,7667,Idiopathic urticaria
+7089,7673,Unspecified urticaria
+709,3339,Other disorders of skin and subcutaneous tissue
+7099,3349,Unspecified disorder of skin and subcutaneous tissue
+7100,4071,Systemic lupus erythematosus
+711,3370,Arthropathy associated with infections
+7140,3547,Rheumatoid arthritis
+7149,3557,Unspecified inflammatory polyarthropathy
+71509,3566,"Osteoarthrosis, generalized, involving multiple sites"
+71620,3631,"Allergic arthritis, site unspecified"
+71940,3803,Pain in joint site unspecified
+7242,3928,Lumbago
+72886,4174,Necrotizing fasciitis
+72999,4200,Other disorders of soft tissue
+73020,3493,"Unspecified osteomyelitis, site unspecified"
+746,4292,Other congenital anomalies of heart
+747,4314,Other congenital anomalies of circulatory system
+7470,4315,Patent ductus arteriosus
+7476,4331,Other congenital anomalies of peripheral vascular system
+74783,4340,Persistent fetal circulation
+7479,4342,Unspecified congenital anomaly of circulatory system
+7679,4969,Birth trauma NOS
+7700,5045,Congenital pneumonia
+7704,5058,Primary atelectasis of newborn
+7707,5061,Chronic respiratory disease arising in the perinatal period
+77084,5066,Respiratory failure of newborn
+771,5073,Infections specific to the perinatal period
+77182,5083,Urinary tract infection of newborn
+7750,5104,Syndrome of infant of a diabetic mother
+7778,5140,Other specified perinatal disorders of digestive system
+78052,7775,"Insomnia, unspecified"
+7808,3351,Generalized hyperhidrosis
+7817,12901,Tetany
+7820,12905,Disturbance of skin sensation
+7835,9840,Polydipsia
+78600,14053,"Respiratory abnormality, unspecified"
+78607,14060,Wheezing
+7881,1544,Dysuria
+794,12920,Nonspecific abnormal results of function study of brain and central nervous system
+7962,13560,Elevated blood pressure reading without diagnosis of hypertension
+9587,6013,Traumatic subcutaneous emphysema
+9849,5881,Toxic effect of unspecified lead compound
+9850,5884,Toxic effect of mercury and its compounds
+9851,5885,Toxic effect of arsenic and its compounds
+99632,5414,Mechanical complication due to intrauterine contraceptive device
+99681,5457,Complications of transplanted kidney
+99683,5459,Complications of transplanted heart
+99685,5461,Complications of bone marrow transplant
+V581,9099,Encounter for antineoplastic chemotherapy and immunotherapy

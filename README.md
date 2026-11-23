@@ -50,3 +50,22 @@ python -m experiments.phecode
 ```
 
 Each command evaluates the bundled checkpoint on the provided test pairs using fixed thresholds and prints the positive-class F1 score as a percentage.
+
+## Reference (IEEE BIBM 2026)
+
+If you use HCOE in your research, please cite:
+
+> Y. Li, W. Li, and Z. Song, “HCOE: Hyperbolic Clinical Ontology Embeddings from Biomedical Language Models,” accepted at the *2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2026.
+
+[Paper](https://arxiv.org/abs/2609.30763) · [Conference accepted-paper list](https://www3.cs.stonybrook.edu/~bibm2026/BIBM2026_Accepted_Papers.html)
+
+```bibtex
+@inproceedings{li2026hcoe,
+  title     = {{HCOE}: Hyperbolic Clinical Ontology Embeddings from Biomedical Language Models},
+  author    = {Li, Yixuan and Li, Weihao and Song, Ziyang},
+  booktitle = {2026 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  year      = {2026},
+  note      = {Accepted for publication},
+  url       = {https://arxiv.org/abs/2609.30763}
+}
+```
